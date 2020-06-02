@@ -23,3 +23,21 @@ For example, for the list (0, 0, 2, 0, 4, 0, 6, 0, 8, 0, 10, 0, 12, 0, 14, 0, 16
 Write a method countUnique that takes a List of integers as a parameter and returns the number of unique integer values in the list. Use a Set as auxiliary storage to help you solve this problem.
 
 For example, if a list contains the values [3, 7, 3, -1, 2, 3, 7, 2, 15, 15], your method should return 5. The empty list contains 0 unique values.
+
+-----------BJP5 Exercise 11.7: countCommon
+
+Write a method countCommon that takes two Lists of integers as parameters and returns the number of unique integers that occur in both lists. Use one or more Sets as storage to help you solve this problem.
+
+For example, if one list contains the values [3, 7, 3, -1, 2, 3, 7, 2, 15, 15] and the other list contains the values [-5, 15, 2, -1, 7, 15, 36], your method should return 4 (because the elements -1, 2, 7, and 15 occur in both lists).
+
+----------BJP5 Exercise 11.8: maxLength
+
+Write a method maxLength that takes a Set of strings as a parameter and that returns the length of the longest string in the set. If your method is passed an empty set, it should return 0.
+
+----------BJP5 Exercise 11.8: maxLength
+
+Write a method maxLength that takes a Set of strings as a parameter and that returns the length of the longest string in the set. If your method is passed an empty set, it should return 0.
+
+----------BJP5 Exercise 11.9: hasOdd
+
+Write a method hasOdd that takes a Set of integers as a parameter and that returns true if the set contains at least one odd integer, and false otherwise. If passed the empty set, your method should return false.
